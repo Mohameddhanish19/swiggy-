@@ -1,1 +1,1 @@
-mylist = ["apple"]
+mylist = ["apple", "banana"]
